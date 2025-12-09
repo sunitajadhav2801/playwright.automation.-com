@@ -33,6 +33,7 @@
     "allure-commandline": "^2.34.1",
     "allure-playwright": "^3.4.2",
     "eslint": "^8.57.1",
+    "eslint-plugin-vue": "^10.6.2",
     "globals": "^16.5.0",
     "playwright-html-reporter": "^0.1.11",
     "typescript-eslint": "^8.49.0"
