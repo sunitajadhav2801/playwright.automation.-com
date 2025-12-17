@@ -1,0 +1,11 @@
+Filled text : gagantyagi@test.com into element : getByRole('textbox', { name: 'E-Mail Address' })
+Filled text : test@123 into element : getByRole('textbox', { name: 'Password' })
+Clicked on element : locator('input[type="submit"][value="Login"]')
+Search key: macbook
+Filled text : macbook into element : getByPlaceholder('Search')
+Clicked on element : locator('.btn.btn-default.btn-lg')
+========product name=======MacBook Pro
+Clicked on element : getByRole('link', { name: 'MacBook Pro' })
+waited for element to be visible 
+product header :MacBook Pro
+total no of image for MacBook Pro ==> 4 
